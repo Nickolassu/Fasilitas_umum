@@ -61,4 +61,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'fasilitas-umum-1e869.firebasestorage.app',
     measurementId: 'G-SZ6HEEH980',
   );
+
 }
